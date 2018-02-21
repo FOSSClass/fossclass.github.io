@@ -109,6 +109,6 @@ Week |Date  | Class Module |
 06   |Feb 14| No Class - It's Valentines Day! <3 :heart: Submit any past-due items before Feb 13.
 07   |Feb 21| [Week 7 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week7-Module.pdf), [Linux Kernel](https://www.kernel.org/) Review & System Init, Networking: Physical/Data Link  | Labs, Read & Respond [An Industry Guide to Becoming a Software Engineer](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf) by Bill Langenberg, Review Chapter 9 |
 08   |Feb 28| User Space & System Configuration, Networking: IP & Transport | Review Chapter 10      |
-09   |Mar 07| System Init & Configuration, Networking: Services   | Pending Release      |
+09   |Mar 07| System Init & Configuration, Networking: Services   | Midterm      |
 10   |Mar 14| Spring Break  | Spring Break      |
 
