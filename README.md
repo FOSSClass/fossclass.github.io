@@ -108,7 +108,14 @@ Week |Date  | Class Module |
 05   |Feb 07| [Week 5 & 6 Module](https://github.com/FOSSClass/linux-2461-class-modules/raw/master/CSCI2461-Sp2018-Week5-Module.pdf), [Linux Kernel](https://www.kernel.org/doc/html/latest/), [Building a Bootable System](https://www.debian.org/releases/stretch/amd64/apds03.html.en), [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
 06   |Feb 14| No Class - It's Valentines Day! <3 :heart: Submit any past-due items before Feb 13.
 07   |Feb 21| Week 7 Module Pending, [An Industry Guide to Becoming a Software Engineer](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf) by Bill Langenberg via Ming Chow at Tufts
-08   |Feb 28| Pre Midterm Review | Review Previous Modules
+08   |Feb 28| Pre Midterm Review 
 09   |Mar 07| Midterm Peer Review   | Midterm Script & Knowledge Exam    
 10   |Mar 14| Spring Break  | Spring Break      
-
+11   |Mar 21| Midterm Review, Teams and Services, Linux Networking  
+12   |Mar 28| Networking, Services, troubleshooting with tcpdump, Team Reports  
+13   |Apr 04| Moving Files, Deploying Services  | Deploy your service.      |
+14   |Apr 11| [RFC 1918](https://www.rfc-editor.org/rfc/rfc1918.txt), Deployment, Compilation 
+15   |Apr 18| Deployment, Documentation and On-Boarding  | Deploy, Document, Test, and On-Board Users.
+16   |Apr 25| Pending Release  | Pending Release      |
+17   |May 02| Final Pack Due, Final Project Presentation  | Final Knowledge Exam     |
+18   |May 09| Pending Release  | Pending Release      |
