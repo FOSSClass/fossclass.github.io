@@ -4,7 +4,7 @@
 
 ## Instructor
 
-  * Matthew J. Harmon < matthew.harmon@saintpaul.edu >
+  * Matthew J. Harmon < matthew.harmon@saintpaul.edu >, < mjh@itys.net >
   * Office Hours: Before class on Wednesday, or by appointment
   * Submit general class questions to the ~~D2L discussion~~ GitHub Team forum for that team
   * Emergencies or private matters, email or see me in person.
