@@ -9,6 +9,10 @@
   * Submit general class questions to the ~~D2L discussion~~ GitHub Team forum for that team
   * Emergencies or private matters, email or see me in person.
 
+## 2018
+
+  * [CSCI 2461-70/71 Linux](https://sootsplash.cssi2461.com)
+
 ## Previous Semester Classes (2017)
 
   * [CSCI 2461-70 Linux](https://f17.csci2461.com/)
