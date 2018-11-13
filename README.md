@@ -11,7 +11,7 @@
 
 ## 2018
 
-  * [CSCI 2461-70/71 Linux](https://sootsplash.cssi2461.com)
+  * [CSCI 2461-70/71 Linux](https://sootsplash.csci2461.com)
 
 ## Previous Semester Classes (2017)
 
